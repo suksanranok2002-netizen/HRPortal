@@ -1,0 +1,16 @@
+# SQLite Database files (ห้ามนำข้อมูลพนักงานขึ้น GitHub)
+*.db
+*.db-wal
+*.db-shm
+backups/
+seed.json
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# OS generated files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+.DS_Store
